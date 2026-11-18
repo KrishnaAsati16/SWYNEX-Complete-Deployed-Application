@@ -1,4 +1,4 @@
-# SWYNEX Rocket Launch Tracker (Full Stack, Deploy Repo)
+# SWYNEX Rocket Launch Tracker
 
 A full-stack web app to browse rocket launches, search and filter them, and keep a personal watchlist with notes. This repository holds the complete, deployable version: the REST API in `backend/` and the React app in `frontend/`.
 
