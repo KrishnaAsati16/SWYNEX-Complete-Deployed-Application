@@ -7,7 +7,7 @@ Built as part of the SWYNEX Technologies Full Stack Developer Internship (Task 1
 
 ## Live Demo
 
-- **Frontend:** https://vercel.com/krishnaasati16/swynex-frontend-integration
+- **Frontend:** https://swynex-frontend-integration-eta.vercel.app/
 - **Backend API:** https://swynex-backendapianddatabase.onrender.com
 - **GitHub Repository:** https://github.com/KrishnaAsati16/SWYNEX-Complete-Deployed-Application
  
